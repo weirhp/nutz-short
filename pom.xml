@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nutz</groupId>
-  <artifactId>nutz-short</artifactId>
+  <artifactId>shortit</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>nutz-short Maven Webapp</name>
+  <name>shortit Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -21,7 +21,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>nutz-short</finalName>
+    <finalName>shortit</finalName>
     <resources>
       <resource>
         <filtering>false</filtering>
